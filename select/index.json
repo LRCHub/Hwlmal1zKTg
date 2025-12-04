@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "透明度",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2025-12-04T11:46:22.946374Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "透明度",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/01_透明度_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "透明度",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/02_透明度_DUSTCELL.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "透明度",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_透明度_DUSTCELL.txt"
+    }
+  ]
+}
